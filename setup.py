@@ -26,7 +26,7 @@ setup(
         'South>=0.7.3',
     ],
     classifiers=[
-        "Development Status :: 5 - Alpha",
+        "Development Status :: 3 - Alpha",
         "Environment :: Web Environment",
         "Framework :: Django",
         "Intended Audience :: Developers",
