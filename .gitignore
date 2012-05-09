@@ -4,3 +4,5 @@
 *.py[co]
 
 htmlcov/
+dist/
+django_url_tracker.egg-info/
