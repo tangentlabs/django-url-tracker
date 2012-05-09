@@ -1,4 +1,6 @@
+*sw[po]
 *.log
 *.pot
-*.pyc
-local_settings.py
+*.py[co]
+
+htmlcov/
